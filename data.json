@@ -1,6 +1,36 @@
 {
     "homework": [
         {
+            "contenuto": "Studiare pag. 254-256. Es. pag. 282 n. 128-131-134-135-136-141-152-156-163",
+            "date": "2018-03-24",
+            "materia": "MATEMATICA E COMPLEMENTI DI MATEMATICA"
+        },
+        {
+            "contenuto": "Esercizi sulla scheda",
+            "date": "2018-03-23",
+            "materia": "INFORMATICA"
+        },
+        {
+            "contenuto": "Studiare da pag. 249 a 253, es. pag. 278 e seg. da 56 a 72, 101-103-106-110-115-119",
+            "date": "2018-03-23",
+            "materia": "MATEMATICA E COMPLEMENTI DI MATEMATICA"
+        },
+        {
+            "contenuto": "Esercizi sulla scheda.",
+            "date": "2018-03-21",
+            "materia": "INFORMATICA"
+        },
+        {
+            "contenuto": "Esercizi di analisi a p.512.",
+            "date": "2018-03-21",
+            "materia": "LINGUA E LETTERATURA ITALIANA"
+        },
+        {
+            "contenuto": "Studiare algoritmi di routing dinamico da dispensa Algoritmi di routing.pdf RIPASSARE CIDR Esercizi 7 pag 147 e 3 pag.176",
+            "date": "2018-03-21",
+            "materia": "SISTEMI E RETI"
+        },
+        {
             "contenuto": "Eseguire esercizi su fotocopia. Esercizi sul libro.",
             "date": "2018-03-20",
             "materia": "LINGUA E LETTERATURA ITALIANA"
@@ -1101,12 +1131,12 @@
             "materia": "MATEMATICA E COMPLEMENTI DI MATEMATICA"
         },
         {
-            "contenuto": "Studiare appunti.",
+            "contenuto": "Studiare appunti e materiale fornito.",
             "date": "2017-09-19",
             "materia": "SISTEMI E RETI"
         },
         {
-            "contenuto": "Studiare appunti e materiale fornito.",
+            "contenuto": "Studiare appunti.",
             "date": "2017-09-19",
             "materia": ""
         },
