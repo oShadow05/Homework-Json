@@ -1,6 +1,206 @@
 {
     "homework": [
         {
+            "contenuto": "Esercizi sulle strutture e sulle Matrici con dati di input da File e Output Su File",
+            "date": "2018-05-09",
+            "materia": "INFORMATICA"
+        },
+        {
+            "contenuto": "Ripassare bene per la verifica",
+            "date": "2018-05-07",
+            "materia": "MATEMATICA E COMPLEMENTI DI MATEMATICA"
+        },
+        {
+            "contenuto": "Es. pag. 433 n. 116-139",
+            "date": "2018-05-05",
+            "materia": "MATEMATICA E COMPLEMENTI DI MATEMATICA"
+        },
+        {
+            "contenuto": "Robespierre, tra Terrore e democrazia p. 225. Scrivere un testo in base alla consegna di p. 227 ( consegna gioved\u00ec 10)",
+            "date": "2018-05-05",
+            "materia": "STORIA"
+        },
+        {
+            "contenuto": "Es. pag. 427-429 n. 26-41",
+            "date": "2018-05-04",
+            "materia": "MATEMATICA E COMPLEMENTI DI MATEMATICA"
+        },
+        {
+            "contenuto": "Esercizio lasciato dall'insegnante (Assegnati per il 04/05/2018)",
+            "date": "2018-05-02",
+            "materia": "INFORMATICA"
+        },
+        {
+            "contenuto": "Studiare pag. 331-332-333-334-335, es. pag. 374 n. 366-375-379-387-390, pag. 383 n. 522-536",
+            "date": "2018-05-02",
+            "materia": "MATEMATICA E COMPLEMENTI DI MATEMATICA"
+        },
+        {
+            "contenuto": "Esercizio lasciato dall'insegnante (Assegnati per il 02/05/2018)",
+            "date": "2018-04-30",
+            "materia": "INFORMATICA"
+        },
+        {
+            "contenuto": "Studiare pag. 366-367, es. pag. 382 n. 506-508-510-521-529-532, pag. 363 n. 292, pag. 369 n. 347",
+            "date": "2018-04-30",
+            "materia": "MATEMATICA E COMPLEMENTI DI MATEMATICA"
+        },
+        {
+            "contenuto": "Es. pag. 360 n. 278-287-295-341",
+            "date": "2018-04-27",
+            "materia": "MATEMATICA E COMPLEMENTI DI MATEMATICA"
+        },
+        {
+            "contenuto": "Es. pag. 354 n. 158-159, es. pag. 360 n. 268, pag. 369 n. 344-348",
+            "date": "2018-04-23",
+            "materia": "MATEMATICA E COMPLEMENTI DI MATEMATICA"
+        },
+        {
+            "contenuto": "Es. pag. 352 n. 126-133-136-151-152",
+            "date": "2018-04-21",
+            "materia": "MATEMATICA E COMPLEMENTI DI MATEMATICA"
+        },
+        {
+            "contenuto": "Eseguire test capitolo 8 modulo 1",
+            "date": "2018-04-21",
+            "materia": "SISTEMI E RETI"
+        },
+        {
+            "contenuto": "Complete exercises on photocopies.",
+            "date": "2018-04-20",
+            "materia": "LINGUA INGLESE"
+        },
+        {
+            "contenuto": "Es. pag. 350 n. 92-94-106-108-115-122-124",
+            "date": "2018-04-20",
+            "materia": "MATEMATICA E COMPLEMENTI DI MATEMATICA"
+        },
+        {
+            "contenuto": "Esercizio sulle matrici",
+            "date": "2018-04-18",
+            "materia": "INFORMATICA"
+        },
+        {
+            "contenuto": "Es. P. 129 (figure retoriche)",
+            "date": "2018-04-17",
+            "materia": "LINGUA E LETTERATURA ITALIANA"
+        },
+        {
+            "contenuto": "Esercizio: leggere da un file i 3 coefficienti di una equazione di Secondo Grado. Scrivere su un secondo file l'equazione e le soluzioni",
+            "date": "2018-04-16",
+            "materia": "INFORMATICA"
+        },
+        {
+            "contenuto": "Studiare pag. 313-314-315-321-322-323-324. Es. pag. 344 n. 1-3-89-90-99-100-102-103",
+            "date": "2018-04-16",
+            "materia": "MATEMATICA E COMPLEMENTI DI MATEMATICA"
+        },
+        {
+            "contenuto": "Studiare: La comunicazione tra processi pag 144-149. Sincronizzazione dei processi Pag. 152 - 154 Mutua esclusione e sezione critica pag. 158-159. Semafori e Applicazione dei semafori pag 158-159; 176-177. Problema produttore consumatore pag 185-187; pag 190- 191",
+            "date": "2018-04-16",
+            "materia": "TECNOLOGIE E PROGETTAZIONE DI SISTEMI INFORMATICI E DI TELECOMUNICAZIONI"
+        },
+        {
+            "contenuto": "La crisi della monarchia.",
+            "date": "2018-04-14",
+            "materia": "STORIA"
+        },
+        {
+            "contenuto": "Ripassare bene per la verifica",
+            "date": "2018-04-13",
+            "materia": "MATEMATICA E COMPLEMENTI DI MATEMATICA"
+        },
+        {
+            "contenuto": "Studiare le funzioni spiegate in classe. Riscrivere il programma e le funzioni apportando modifiche in modo da comprendere meglio le caratteristiche delle singole operazioni",
+            "date": "2018-04-12",
+            "materia": "INFORMATICA"
+        },
+        {
+            "contenuto": "Study Output Devices, pp. 37-38-40.",
+            "date": "2018-04-11",
+            "materia": "LINGUA INGLESE"
+        },
+        {
+            "contenuto": "Es. pag. 296 e seg. n. 500-506-518-524-528-627-629-636-640-655-656-660-664-667-701",
+            "date": "2018-04-11",
+            "materia": "MATEMATICA E COMPLEMENTI DI MATEMATICA"
+        },
+        {
+            "contenuto": "Study p. 38 and revise the previous ones.",
+            "date": "2018-04-10",
+            "materia": "LINGUA INGLESE"
+        },
+        {
+            "contenuto": "Relazione su esercitazione in Multisim su BJT con polarizzazione a Partitore.",
+            "date": "2018-04-10",
+            "materia": "TELECOMUNICAZIONI"
+        },
+        {
+            "contenuto": "Es. pag. 290 n. 378-379-381-382-394-395-398-406-410. Interrogazioni",
+            "date": "2018-04-09",
+            "materia": "MATEMATICA E COMPLEMENTI DI MATEMATICA"
+        },
+        {
+            "contenuto": "Svolgere esercizi sul calcolo di derivate e sulle rette tangenti ad una funzione",
+            "date": "2018-04-07",
+            "materia": "MATEMATICA E COMPLEMENTI DI MATEMATICA"
+        },
+        {
+            "contenuto": "Studiare routing gerarchico. Prossimo luned\u00ec interrogazioni RIVI e VALERIANI.",
+            "date": "2018-04-07",
+            "materia": "SISTEMI E RETI"
+        },
+        {
+            "contenuto": "Study pp. 35-36 (New Totally Connected). Study pp. 86 and 88 (photocopies).",
+            "date": "2018-04-06",
+            "materia": "LINGUA INGLESE"
+        },
+        {
+            "contenuto": "Es. pag. 301 n. 563-564-568-569, pag. 288 n. 328-336-344-352-357",
+            "date": "2018-04-06",
+            "materia": "MATEMATICA E COMPLEMENTI DI MATEMATICA"
+        },
+        {
+            "contenuto": "Studiare routing gerarchico dal libro di testo.",
+            "date": "2018-04-05",
+            "materia": "SISTEMI E RETI"
+        },
+        {
+            "contenuto": "Esercizi sulla scheda in preparazione alla verifica",
+            "date": "2018-04-04",
+            "materia": "INFORMATICA"
+        },
+        {
+            "contenuto": "Study \"Primary Output Devices\", pp. 84-85.",
+            "date": "2018-04-04",
+            "materia": "LINGUA INGLESE"
+        },
+        {
+            "contenuto": "Studiare pag. 259-260-261, es. pag. 287 n. 293-296-297-298-303-304-331-334-338",
+            "date": "2018-04-04",
+            "materia": "MATEMATICA E COMPLEMENTI DI MATEMATICA"
+        },
+        {
+            "contenuto": "Esercizi sulla scheda",
+            "date": "2018-03-28",
+            "materia": "INFORMATICA"
+        },
+        {
+            "contenuto": "Study \"Peripheral Devices\", \"Input Devices\", pp. 78-80-82 on photocopies.",
+            "date": "2018-03-28",
+            "materia": "LINGUA INGLESE"
+        },
+        {
+            "contenuto": "Es. pag. 285 n. 257-262-263-264-277-280-283-284",
+            "date": "2018-03-28",
+            "materia": "MATEMATICA E COMPLEMENTI DI MATEMATICA"
+        },
+        {
+            "contenuto": "Studiare pag. 257-258, es. pag. 283 n. 186-192-199-210-252-254-260-261-265-269-273",
+            "date": "2018-03-26",
+            "materia": "MATEMATICA E COMPLEMENTI DI MATEMATICA"
+        },
+        {
             "contenuto": "Studiare pag. 254-256. Es. pag. 282 n. 128-131-134-135-136-141-152-156-163",
             "date": "2018-03-24",
             "materia": "MATEMATICA E COMPLEMENTI DI MATEMATICA"
@@ -1131,12 +1331,12 @@
             "materia": "MATEMATICA E COMPLEMENTI DI MATEMATICA"
         },
         {
-            "contenuto": "Studiare appunti e materiale fornito.",
+            "contenuto": "Studiare appunti.",
             "date": "2017-09-19",
             "materia": "SISTEMI E RETI"
         },
         {
-            "contenuto": "Studiare appunti.",
+            "contenuto": "Studiare appunti e materiale fornito.",
             "date": "2017-09-19",
             "materia": ""
         },
